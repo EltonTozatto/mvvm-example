@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVMexemplo</string>
+    <string name="salvar">Salvar</string>
+    <string name="insira_item">Insira um item</string>
+    <string name="lista">Item da lista</string>
+    <string name="mensagem_lista_vazia">Lista vazia</string>
+    <string name="erro_campo_vazio">Entre com o valor</string>
+</resources>
